@@ -31,4 +31,4 @@ Contact section: ⏳ Planned
 ## 👤 Author
 **Aleš Fizešan**
 - GitHub: [@alesfizesan](https://github.com/alesfizesan)
-- LinkedIn: [alesfizesan](https://linkedin.com/in/alesfizesan)
+- LinkedIn: [Aleš Fizešan](https://www.linkedin.com/in/ale%C5%A1-fize%C5%A1an-39a699149/)
