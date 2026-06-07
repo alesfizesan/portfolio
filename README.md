@@ -5,6 +5,8 @@
 ## 🌐 Live Site
 Coming soon — currently in development
 
+![Portfolio Preview](portfolio-preview.png)
+
 ## 🛠️ Built With
 - HTML5
 - CSS3 (Flexbox, animations, responsive design)
