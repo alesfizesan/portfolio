@@ -22,11 +22,11 @@ Coming soon — currently in development
 - Open Graph tags
 
 ## 📈 Status
-Hero section: ✅ Complete
-About section: 🔄 In progress
-Skills section: ⏳ Planned
-Projects section: ⏳ Planned
-Contact section: ⏳ Planned
+- Hero section: ✅ Complete
+- About section: 🔄 In progress
+- Skills section: ⏳ Planned
+- Projects section: ⏳ Planned
+- Contact section: ⏳ Planned
 
 ## 👤 Author
 **Aleš Fizešan**
